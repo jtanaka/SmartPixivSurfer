@@ -1,0 +1,57 @@
+.layout-column-2 {
+	display: none;
+}
+/* Menu */
+nav.column-menu {
+	display: none;
+}
+/* Illust */
+.works_display {
+	margin-top: 10px !important;
+}
+.read-more {
+	display: none !important;
+}
+.page-count {
+	background-color: rgb(255, 50, 50) !important;
+}
+/* Profile */
+._work-detail-unit .profile-module {
+	margin-bottom: 10px !important;
+}
+._work-detail-unit .profile-module div.p6jiLpm._2zFeid5{
+	width: 100%;
+}
+._2hjqTfn {
+	display: none !important;
+}
+._25qhYig {
+	margin: auto !important;
+}
+.p6jiLpm {
+	padding: 5px !important;
+}
+/* Info */
+.work-info {
+	padding: 10px 20px 15px 20px !important;
+}
+._nice-button {
+	background-color: #e2de8a !important;
+}
+._nice-button.rated {
+	background-color: #ffe647 !important;
+}
+/* Tag */
+.work-tags {
+	margin: 0 !important;
+	padding: 10px 20px !important;
+}
+
+
+/* Original Image */
+img.original-image {
+    max-width:  100% !important;
+    max-height: 100% !important;
+    height: auto !important;
+    width: auto !important;
+}
