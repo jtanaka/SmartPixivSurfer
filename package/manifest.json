@@ -1,6 +1,6 @@
 {
   "name": "Smart Pixiv Surfer",
-  "version": "0.1",
+  "version": "0.2",
   "description": "You can surf more smart on Pixiv with this.",
   "icons": { "16": "icon16.png",
            "48": "icon48.png",
